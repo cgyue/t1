@@ -71,6 +71,9 @@ public class TestMain {
 		BeanUtils.setProperty(p, "birth", "1987-11-15");
 	}
 	
+	
+	
+	
 	public static void main(String[] args) throws Exception {
 		TestMain t = new TestMain();
 //		t.test1();
